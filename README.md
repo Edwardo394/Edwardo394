@@ -5,6 +5,7 @@
 - ⚡ Computadores tem sido o meu hobby desde os 7 anos 
 - 🔭 Procurando estágio remoto ou presencial
 - 📫 https://www.linkedin.com/in/eduardo-cardoso394/
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardo394&show_icons=true&theme=radical)
 <div>
   <a href="https://www.credly.com/badges/2f9e8f06-9f60-40c4-acc5-8da218b20156/public_url">
