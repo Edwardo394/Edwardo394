@@ -4,7 +4,6 @@
 - 🌱 Ciências da computação - PUCRS
 - ⚡ Computadores tem sido o meu hobby desde os 7 anos 
 - 🔭 Procurando estágio remoto ou presencial
-- 📫 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardo394&show_icons=true&theme=radical)
 <div>
