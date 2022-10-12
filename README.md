@@ -1,4 +1,4 @@
-    ### Olá, meu nome é Eduardo 👋
+  Olá, meu nome é Eduardo 👋
 - 👴 22 anos
 - 🌆 Porto Alegre/RS
 - 🌱 Ciências da computação - PUCRS
