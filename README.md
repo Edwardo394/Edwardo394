@@ -1,11 +1,8 @@
   Olá, meu nome é Eduardo 👋
 - 👴 22 anos
-- 🌆 Porto Alegre/RS
+- 🌆 RS
 - 🌱 Ciências da computação - PUCRS
-- ⚡ Computadores tem sido o meu hobby desde os 7 anos 
-- 🔭 Procurando estágio remoto ou presencial
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardo394&show_icons=true&theme=radical)
 <div>
   <a href="https://www.linkedin.com/in/eduardo-cardoso394/">
   <img height="75em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
