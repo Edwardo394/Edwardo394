@@ -1,5 +1,5 @@
   Olá, meu nome é Eduardo 👋
-- 👴 22 anos
+- 👴 23 anos
 - 🌆 RS
 - 🌱 Ciências da computação - PUCRS
 
